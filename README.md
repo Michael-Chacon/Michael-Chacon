@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis Chacón</h1>
-<h3 align="center">Hola mi nombre es Michael Alexis Chacón Marin, soy ingeniero de sistemas, me gusta el desarrollo web, tengo conocimientos en Java, SQL, HTML, PHP, CSS y JavaScript. Tengo muchas ganas de aprender.</h3>
+<h3 align="center">Hola mi nombre es Michael Alexis Chacón Marin, soy ingeniero de sistemas, me gusta el desarrollo web, tengo conocimientos en Java, Spring Boot, SQL, MySQL, HTML, CSS y JavaScript. Tengo muchas ganas de aprender.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-chacon&label=Profile%20views&color=0e75b6&style=flat" alt="michael-chacon" /> </p>
 
