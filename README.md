@@ -1,5 +1,7 @@
-<h1 align="center"Hola soy Alexis Chacón</h1>
-<h3 align="center">Soy ingeniero de sistemas , me gusta el desarrollo web, tengo conocimientos en Java, Spring Boot, SQL, MySQL, HTML, CSS y JavaScript. Tengo muchas ganas de aprender.</h3>
+<h1 align="center"Hi, i'm Alexis</h1>
+<h3 align="center">Systems Engineer specialized in backend development with Java and Spring Boot.
+Experienced in architecture design, SQL database modeling, and application deployment using Docker.
+Focused on building efficient, secure, and maintainable software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-chacon&label=Profile%20views&color=0e75b6&style=flat" alt="michael-chacon" /> </p>
 
